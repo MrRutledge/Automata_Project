@@ -4,7 +4,7 @@
  * character.
  */
 public class Bits1XParallel{
-
+//the block chain in the midst
   /*
    * The current set of states, encoded bitwise: 
    * state i is represented by the bit 1<<i.
