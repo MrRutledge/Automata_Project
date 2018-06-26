@@ -18,6 +18,9 @@ public class Bits1XParallel {
   public void reset() {
     stateSet = 1<<0; // {q0}
   }
+  //
+  
+  // this is just an update on the readme.
 
 
   /*
