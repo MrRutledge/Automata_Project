@@ -2,7 +2,7 @@
 
 This project was based on [__Automata Theory__](https://en.wikipedia.org/wiki/Automata_theory) which deals with simple machines also known as Automatas, and their ability to follow computational logic to carry out simple tasks or processes.
 
-There are two ways to model the machines, the first type is the Definite Finite Automata; is this model the machine is characterized by having as one start and one ending.
+There are two ways to model the machines, the first type is the Definite Finite Automata; in this model the machine is characterized by having as one start and one ending.
 
  The Nondefinite Finite Automata on the other hand can have more than one ending ie the machine can have more than one way to finish the task or to end a process.
 
