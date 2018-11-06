@@ -12,4 +12,16 @@ There are two ways to model the machines, the first type is the **Definite Finit
 
 We later had to implement our models in programs, the results of which can be tried out by git cloning this project and experiment with it using the above source code.
 
+Project Trees.
 
+```bash
+Automata_Project 
+        |─Readme.md
+        |-bin
+        |──src
+             |-bits.txt
+             |──Bits1XParallel.java
+             |──DFA.java
+             |──DFAFilter.Java
+
+```
