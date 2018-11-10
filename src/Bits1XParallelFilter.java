@@ -3,7 +3,7 @@ import java.util.*;
 /**
  * A Java application to demonstrate the Bits0X class by
  * using it to filter the standard input stream.  Those
- * lines that are accepted by Bits0 are echoed to the
+ * lines that are accepted by Bits are echoed to the
  * standard output.
  */
 public class Bits1XParallelFilter {
